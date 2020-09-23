@@ -3,9 +3,9 @@
 
 name = "Recipes"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
+licenselink = "https://github.com/kevdougful/recipe-book-1/blob/master/themes/recipes/LICENSE"
+description = "Recipes Book Made with Hugo"
+homepage = "https://hugothemesfree.com/recipes-book-made-with-hugo/"
 tags = []
 features = []
 min_version = "0.41"
